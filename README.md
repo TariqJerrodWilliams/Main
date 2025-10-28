@@ -16,6 +16,6 @@
 [<img align="left" alt="Tariq J. Williams | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Tariq J. Williams | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/MrGreyKitty
+[twitter]: https://x.com/_Tariq_Williams
 [instagram]: https://www.instagram.com/tariq_j_williams/
 [linkedin]: https://linkedin.com/in/tariq-williams
