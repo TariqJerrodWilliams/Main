@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tariq, an <a href="https://linkedin.com/in/tariq-williams">IT Professional</a>.</h1>
+<h1>Hi, I'm Tariq, An <a href="https://linkedin.com/in/tariq-williams">IT Help Desk Associate</a>.</h1>
 
 <h2> Information Technology Projects:</h2>
 
